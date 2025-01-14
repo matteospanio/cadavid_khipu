@@ -12,17 +12,17 @@
 | 5  | Banana Plug       | 1    |                | |                
 | 6  | Banana jack Male  | 1    |                | |
 | 7  | Wool string       |      |                | |
-| 8  | Custom Box	       | 1	  |		             | [folder](../components/box/)|
+| 8  | Custom Box	       | 1	  |		             | [folder](../components/box/9-strings/)|
 | 9  | PCB	             | 1	  |		             | [folder](../components/circuit_board/)|
 
 
 ### Software
 |    | name		          | description 	| Version | Link |  
 |----|------------------|---------------|---------|---------------------------------------------------------------------|
-| 1  | Yupana puredata  | Pure data patches and related file | 1 |[folder](../../code/puredata-kanchay_yupana) |
-| 2  | Yupana Teensyduino | Firmaware for Teensy (Arduino IDE) | **2** | [folder](../../code/teensyduino_02-kanchay_yupana)|
+| 1  | Khipu puredata  | Pure data patches and related file | 1 |[folder](../../code/puredata/) |
+| 2  | Khipu Teensyduino | Firmaware for Teensy (Arduino IDE) | **9 strings** | [folder](../../code/Khipu_9strings_ino/)|
+| 3  | Khipu Ableton Live | Ableton Live Proect | 1 | [folder](../../code/ableton/)
 
-## Mappings
 
 ## Developing Instructions
 
