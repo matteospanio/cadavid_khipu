@@ -1,4 +1,4 @@
-# Electronic_Khipu_ $${\color{blue}Patricia\ Cadavid}$$
+# Electronic_Khipu_ 
 
 The **Electronic_Khipu_** is a NIME designed to create live experimental sound through knot-making with conductive rubber cords. It is inspired by the *Khipu*, an ancient information storage and transmission device used by the Incas and earlier Andean societies. Its name comes from the Kichwa word “khipu,” meaning “knot.”
 
@@ -6,10 +6,10 @@ The **Electronic_Khipu_** is a NIME designed to create live experimental sound t
 
 The concept behind the **Electronic_Khipu_** is to revive this ancient device, offering a different interpretation than the Western view, which sees it solely as a numerical system for observation and study, devoid of deeper meaning or "soul." Instead, the **Electronic_Khipu_** reuses the Khipu’s code system to create new messages and sonic narratives.
 
-![Electronic_Khipu_ Instrument](documentation/images/Electronic_Khipu_.png)
+![Electronic_Khipu_ Instrument](documentation/images/Electric_Khipu_5strings.jpg)
 
 ## Technical notes
-The **Electronic_Khipu_** consists of a root cord and nine secondary strings arranged in a wooden box with various potentiometers and buttons to control the signal. The secondary cords are made from conductive rubber sensors, which function as variable resistors to measure tension that increases with each knot added. The entire setup is managed by a Teensy board in order to control the sensors and the potentiometers and send MIDI messages to a computer. The artist interacts with these cords by touching and knotting them during a performance. The sound textures depend on the performer's skin conductivity and the intensity of touch while making knots. A cable connects the performer (through a ring or a bracelet) to the system ground, completing a circuit upon touch and altering the signals produced by each cord. Each knot anchors the cord to a grounded metal piece, with tension tailored to each knot’s strength. 
+The **Electronic_Khipu_** consists of a root cord and five secondary strings arranged in a wooden box with various potentiometers and buttons to control the signal. The secondary cords are made from conductive rubber sensors, which function as variable resistors to measure tension that increases with each knot added. The entire setup is managed by a Teensy board in order to control the sensors and the potentiometers and send MIDI messages to a computer. The artist interacts with these cords by touching and knotting them during a performance. The sound textures depend on the performer's skin conductivity and the intensity of touch while making knots. A cable connects the performer (through a ring or a bracelet) to the system ground, completing a circuit upon touch and altering the signals produced by each cord. Each knot anchors the cord to a grounded metal piece, with tension tailored to each knot’s strength. 
 During the performance, the instrument is usually combined with a camera to visualise the performer’s gesture in real-time.
 
 ### Instruction
@@ -34,13 +34,5 @@ During the performance, the instrument is usually combined with a camera to visu
 [Pdf](https://www.nime.org/proceedings/2020/nime2020_paper94.pdf)
 
 </details>
-
-<!-- ## About repository
-
-<details>
-
-The repository follows the guideline of the _Multilevel Dynamic Preservation_ (MDP) model ([https://www.frontiersin.org/articles/10.3389/frsip.2023.1183294/full](https://www.frontiersin.org/articles/10.3389/frsip.2023.1183294/full))  
-
-</details> -->
 
 
