@@ -1,31 +1,5 @@
 # Instructions
 
-## Components
-
-### Hardware 
-|    | name		          | q.	  | description 	| Link  
-|----|------------------|-------|---------------|------------------------------------------------------------------------------|
-| 1  | Conductive Rubber String 	| 9	  | Adafruit Conductive Rubber Cord Stretch Sensor Description 	| [pdf](../components/adafruit-Conductive Rubber Cord Stretch Sensor.pdf)|
-| 2  | Ring Terminals	   | 18	  |                | |
-| 3  | Potentiometer 	   | 10	  |                | [pdf](../components/Potentiometer10K.pdf)|
-| 4  | Switch	           | 10	  |	               | |
-| 5  | Banana Plug       | 1    |                | |                
-| 6  | Banana jack Male  | 1    |                | |
-| 7  | Wool string       |      |                | |
-| 8  | Custom Box	       | 1	  |		             | [folder](../components/box/9-strings/)|
-| 9  | PCB	             | 1	  |		             | [folder](../components/circuit_board/)|
-
-
-### Software
-|    | name		          | description 	| Version | Link |  
-|----|------------------|---------------|---------|---------------------------------------------------------------------|
-| 1  | Khipu puredata  | Pure data patches and related file | 1 |[folder](../../code/puredata/) |
-| 2  | Khipu Teensyduino | Firmaware for Teensy (Arduino IDE) | **9 strings** | [folder](../../code/Khipu_9strings_ino/)|
-| 3  | Khipu Ableton Live | Ableton Live Proect | 1 | [folder](../../code/ableton/)
-
-
-## Developing Instructions
-
 ### Box
 The box is made from acrylic and wood, following the provided schematics (initially tested with cardboard mockups until a satisfactory design was achieved).
 
